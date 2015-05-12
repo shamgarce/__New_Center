@@ -26,18 +26,23 @@ return array(
 			'password'=>'admin',
 			'ipFilters' => array('127.0.0.1','192.168.1.200', '::1'),
 		),
-		'v3'=>array(
+		'v5'=>array(
 			//'postPerPage'=>20,
 		),
-		'admin'=>array(
-			//'postPerPage'=>20,
-		),
-	],
+        'admin'=>array(
+            //'postPerPage'=>20,
+        ),
+        'test'=>array(
+            //'postPerPage'=>20,
+        ),
+
+    ],
 	// application components
 	'components'=>array(
 		'user'=>array(
 			// enable cookie-based authentication
 			'allowAutoLogin'=>true,
+            'loginUrl'=>array('user/login'),
 		),
 		// uncomment the following to use a MySQL database
 

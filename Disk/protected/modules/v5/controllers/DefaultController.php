@@ -4,6 +4,7 @@ class DefaultController extends Controller
 {
 	public function actionIndex()
 	{
-		$this->render('index');
+        echo 'v5/default/index';
+		//$this->render('index');
 	}
 }

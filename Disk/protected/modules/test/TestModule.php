@@ -1,6 +1,5 @@
 <?php
-
-class V1Module extends CWebModule
+class TestModule extends CWebModule
 {
 	public function init()
 	{
@@ -8,10 +7,11 @@ class V1Module extends CWebModule
 		// you may place code here to customize the module or the application
 
 		// import the module-level models and components
-		$this->setImport(array(
-			'v1.models.*',
-			'v1.components.*',
-		));
+//		$this->setImport(array(
+//			'v1.models.*',
+//			'v1.components.*',
+//		));
+        //echo 'v5/default/index';
 	}
 
 	public function beforeControllerAction($controller, $action)
