@@ -2,67 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="382da726-1b32-47a2-b675-16a11e57e143" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/assets/gridview/bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/assets/gridview/delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/assets/gridview/down.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/assets/listview/down.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/assets/gridview/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/assets/listview/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/assets/gridview/up.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/assets/listview/up.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/assets/gridview/update.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/assets/gridview/view.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Disk/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Disk/protected/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/CBaseListView.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/CBreadcrumbs.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/grid/CButtonColumn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/grid/CCheckBoxColumn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/grid/CDataColumn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/CDetailView.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/grid/CGridColumn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/grid/CGridView.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/jui/CJuiAccordion.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/jui/CJuiAutoComplete.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/jui/CJuiButton.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/jui/CJuiDatePicker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/jui/CJuiDialog.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/jui/CJuiDraggable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/jui/CJuiDroppable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/jui/CJuiInputWidget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/jui/CJuiProgressBar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/jui/CJuiResizable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/jui/CJuiSelectable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/jui/CJuiSlider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/jui/CJuiSliderInput.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/jui/CJuiSortable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/jui/CJuiTabs.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/jui/CJuiWidget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/grid/CLinkColumn.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/CListView.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/CMenu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/CPortlet.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/behaviors/CTimestampBehavior.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Disk/protected/components/Controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/New_Center.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Disk/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/assets/gridview/jquery.yiigridview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/assets/listview/jquery.yiilistview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Disk/protected/config/main.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/assets/detailview/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/assets/gridview/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/zii/widgets/assets/listview/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/yiic.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/yiic.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/yiilite.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CORE/yiit.php" />
+      <change type="DELETED" beforePath="E:\www\New_Center\Disk\css\bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\www\New_Center\Disk\css\form.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\www\New_Center\Disk\css\ie.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\www\New_Center\Disk\css\main.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\www\New_Center\Disk\css\print.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\www\New_Center\Disk\css\screen.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\www\New_Center\Disk\themes\classic\views\.htaccess" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="New_Center.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -96,28 +43,28 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Disk/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.4074075" vertical-offset="0" max-vertical-offset="391">
-              <caret line="4" column="49" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="49" />
+            <state vertical-scroll-proportion="-9.37037" vertical-offset="0" max-vertical-offset="391">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Disk/protected/config/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5159386" vertical-offset="207" max-vertical-offset="1771">
-              <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+            <state vertical-scroll-proportion="-16.185184" vertical-offset="207" max-vertical-offset="1679">
+              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WelcomeController.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="WelcomeController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Disk/protected/controllers/WelcomeController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.037037" vertical-offset="0" max-vertical-offset="598">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.35301062" vertical-offset="0" max-vertical-offset="847">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -257,7 +204,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
+              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -351,14 +298,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Disk/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.4074075" vertical-offset="0" max-vertical-offset="391">
-          <caret line="4" column="49" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Disk/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23684211" vertical-offset="0" max-vertical-offset="874">
@@ -375,6 +314,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Disk/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.185184" vertical-offset="207" max-vertical-offset="1679">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Disk/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.37037" vertical-offset="0" max-vertical-offset="391">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Disk/protected/controllers/SiteController__.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-14.481482" vertical-offset="414" max-vertical-offset="1403">
@@ -385,16 +340,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Disk/protected/controllers/WelcomeController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.037037" vertical-offset="0" max-vertical-offset="598">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Disk/protected/config/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5159386" vertical-offset="207" max-vertical-offset="1771">
-          <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+        <state vertical-scroll-proportion="0.35301062" vertical-offset="0" max-vertical-offset="847">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="31" />
           <folding />
         </state>
       </provider>
