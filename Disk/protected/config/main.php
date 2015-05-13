@@ -47,7 +47,7 @@ return array(
 		// uncomment the following to use a MySQL database
 
 		'db'=>array(
-			'connectionString' => 'mysql:host=127.0.0.1:3306;dbname=dmpushtest',
+			'connectionString' => 'mysql:host=127.0.0.1:3306;dbname=yii_main',
 			'emulatePrepare' => true,
 			'username' => 'root',
 			'password' => '123',
@@ -55,10 +55,10 @@ return array(
 			'tablePrefix' => 'tbl_',
 		),
 
-		'errorHandler'=>array(
-			// use 'site/error' action to display errors
-			'errorAction'=>'Welcome/error',
-		),
+//		'errorHandler'=>array(
+//			// use 'site/error' action to display errors
+//			'errorAction'=>'Welcome/error',
+//		),
 		'urlManager'=>array(
 			'urlFormat'=>'path',
 			'showScriptName' => false,//隐藏index.php
