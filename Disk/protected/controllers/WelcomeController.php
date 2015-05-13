@@ -21,7 +21,22 @@ class WelcomeController extends Controller
 		echo '<hr>';
 
 
-$post=Post::model()->find('id=:id',array(':id'=>2));
+//$post=Post::model()->find('id=:id',array(':id'=>2));
+
+
+
+
+
+
+
+
+
+
+
+
+
+//参考http://www.cnblogs.com/ymy124/p/3719503.html
+
 //$post=Post::model()->find(array(
 //	'select'=>'title',
 //	'condition'=>'id=:id',
@@ -37,7 +52,7 @@ $post=Post::model()->find('id=:id',array(':id'=>2));
 
 //var_dump($post);
 
-echo $post->Customization;
+//echo $post->Customization;
 
 //primaryKey
 //    属性给出一个 AR 实例的主键值。
