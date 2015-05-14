@@ -1,11 +1,13 @@
 <?php
 
-// change the following paths if necessary
-$yii=dirname(__FILE__).'/../CORE/yii.php';
-$config=dirname(__FILE__).'/protected/config/main.php';
+// comment out the following two lines when deployed to production
+defined('YII_DEBUG') or define('YII_DEBUG', true);
+defined('YII_ENV') or define('YII_ENV', 'dev');
 
-// remove the following line when in production mode
-// defined('YII_DEBUG') or define('YII_DEBUG',true);
 
-require_once($yii);
-Yii::createWebApplication($config)->run();
+require(__DIR__ . '/protected/vendor/autoload.php');
+require(__DIR__ . '/protected/vendor/yiisoft/yii2/Yii.php');
+
+$config = require(__DIR__ . '/protected/config/web.php');
+
+(new yii\web\Application($config))->run();
