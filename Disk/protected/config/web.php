@@ -60,9 +60,6 @@ $config = [
         'v1' => [
             'class' => 'app\modules\v1\Module',
         ],
-        'super' => [
-            'class' => 'app\modules\super\Module',
-        ],
         'manage' => [
             'class' => 'app\modules\manage\Module',
         ],

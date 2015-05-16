@@ -15,7 +15,10 @@ class DefaultController extends Controller
 
     public function actionIndex()
     {
-        return $this->render('index');
+        echo  \Yii::$app->User->isGuest;
+        var_dump(\YII::$app->user);
+
+      //  return $this->render('index');
     }
 
 

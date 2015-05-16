@@ -86,6 +86,8 @@ class SiteController extends Controller
     {
         $model = new ContactForm();
         if ($model->load(Yii::$app->request->post()) && $model->contact(Yii::$app->params['adminEmail'])) {
+            var_dump($model);
+            exit;
             Yii::$app->session->setFlash('contactFormSubmitted');
 
             return $this->refresh();

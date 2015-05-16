@@ -12,31 +12,53 @@
   <body>
 
 
-<p>线上资源</p>
+<p>原则 ： </p>
+<p>2 ： 可用资源有 </p>
+<p>数据访问对象 DA</p>
+<em>AR</em>模型
+<p>&nbsp;</p>
+<p>手动的</p>
+<p>1 ：前端资源</p>
+<p>2 ：数据提交，自动提交</p>
+<p>&nbsp;</p>
+<p>可以用的模块有</p>
+<p>1 <em>AR</em>模型 html对象 </p>
+<h1><a href="http://blog.csdn.net/xiaojun1288/article/details/7480274">assets使用 </a></h1>
+<p>modules</p>
+<p>布局</p>
+<p>gii使用</p>
+<p>&nbsp;</p>
+<p>widget 暂时不用</p>
+<p>&nbsp;</p>
+<p>//=================================================<br>
+线上资源</p>
 <p><a href="http://www.yiichina.com/doc/guide/2.0" target="_blank">http://www.yiichina.com/doc/guide/2.0</a><br>
   <a href="https://github.com/yiisoft" target="_blank">https://github.com/yiisoft</a><br>
   <a href="http://www.digpage.com/index.html" target="_blank">http://www.digpage.com/index.html</a><br>
   <a href="http://yii2.techbrood.com/guide-index.html" target="_blank">http://yii2.techbrood.com/guide-index.html</a></p>
-<p><br>
-  //=================================================<br>
+<p>  //=================================================<br>
 主系统</p>
 <p><a href="http://192.168.1.200:99/welcome/index" target="_blank">http://192.168.1.200:99/welcome</a><br>
   <a href="http://192.168.1.200:99/welcome/error" target="_blank">http://192.168.1.200:99/welcome/error</a><br>
-  <a href="http://192.168.1.200:99/welcome/test" target="_blank">http://192.168.1.200:99/welcome/test</a></p>
-<p><a href="http://192.168.1.200:99/site" target="_blank">http://192.168.1.200:99/site</a></p>
+  <a href="http://192.168.1.200:99/welcome/test" target="_blank">http://192.168.1.200:99/welcome/test</a><br>
+  <a href="http://192.168.1.200:99/site" target="_blank">http://192.168.1.200:99/site</a></p>
 <p>模块</p>
 <p><a href="http://192.168.1.200:99/super" target="_blank">http://192.168.1.200:99/super<br>
 </a><a href="http://192.168.1.200:99/v1" target="_blank">http://192.168.1.200:99/v1</a><br>
-  <a href="http://127.0.0.1:99/gii" target="_blank">http://127.0.0.1:99/gii</a></p>
-<p><a href="http://192.168.1.200:99/PM/" target="_blank">http://192.168.1.200:99/PM/</a></p>
-<p>&nbsp;</p>
+  <a href="http://127.0.0.1:99/gii" target="_blank">http://127.0.0.1:99/gii</a><a href="http://192.168.1.200:99/PM/" target="_blank"><br>
+  http://192.168.1.200:99/PM/</a></p>
 <p>//=================================================</p>
-<p>完整独立模块 Super</p>
+<p>独立模块</p>
+<p><a href="http://192.168.1.200:99/manage/" target="_blank">http://192.168.1.200:99/manage/</a></p>
 <p>1 ： 用户管理<br>
 </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>//=================================================</p>
+<p>//=================================================<br>
+  //=================================================<br>
+  //=================================================<br>
+  //=================================================<br>
+  //=================================================</p>
 <p></p>
 <p><a href="http://192.168.1.200/v3" target="_blank">http://192.168.1.200/v3</a><br>
   <a href="http://192.168.1.200/Man" target="_blank">http://192.168.1.200/Man</a></p>

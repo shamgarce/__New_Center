@@ -1,16 +1,4 @@
 <?php
-//布局
-/*
-header.php\
-
-footer.php
-
-footer.php
-*/
-
-
-
-
 
 
 use yii\helpers\Html;
