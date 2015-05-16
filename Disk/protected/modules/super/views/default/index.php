@@ -28,7 +28,7 @@
 <p><a href="http://192.168.1.200:99/super" target="_blank">http://192.168.1.200:99/super<br>
 </a><a href="http://192.168.1.200:99/v1" target="_blank">http://192.168.1.200:99/v1</a><br>
   <a href="http://127.0.0.1:99/gii" target="_blank">http://127.0.0.1:99/gii</a></p>
-<p>&nbsp;</p>
+<p><a href="http://192.168.1.200:99/PM/" target="_blank">http://192.168.1.200:99/PM/</a></p>
 <p>&nbsp;</p>
 <p>//=================================================</p>
 <p>完整独立模块 Super</p>
@@ -40,10 +40,6 @@
 <p></p>
 <p><a href="http://192.168.1.200/v3" target="_blank">http://192.168.1.200/v3</a><br>
   <a href="http://192.168.1.200/Man" target="_blank">http://192.168.1.200/Man</a></p>
-<p>&nbsp;</p>
-<p><a href="http://192.168.1.200:99/admin/default/index" target="_blank">http://192.168.1.200:99/admin/default/index</a></p>
-<p><a href="http://192.168.1.200:99/gii/controller/index" target="_blank">http://192.168.1.200:99/gii</a></p>
-<p><a href="http://192.168.1.200:99/pm/" target="_blank">http://192.168.1.200:99/pm/</a></p>
 <p>：88 - 暂时不用<br>
   //=================================================<br>
 </p>
@@ -58,9 +54,7 @@
   <a href="http://192.168.1.200:90/W/" target="_blank">http://192.168.1.200:90/W/</a></p>
 <p><a href="http://192.168.1.200:90/M/" target="_blank"></a>//================================================<br>
 静态资源地址</p>
-<p>phpMyadmin</p>
-<p><a href="http://192.168.1.200:90/T/PM/" target="_blank">http://192.168.1.200:90/T/PM/</a></p>
-  <p>线上 </p>
+<p>线上 </p>
   <p><a href="http://58.30.248.98:88/Man" target="_blank">http://58.30.248.98:88/Man</a><br>
   <a href="http://58.30.248.98:88/DEO" target="_blank">http://58.30.248.98:88/DEO</a><br>
   <a href="http://58.30.248.98:88/v1" target="_blank">http://58.30.248.98:88/v1</a></p>
