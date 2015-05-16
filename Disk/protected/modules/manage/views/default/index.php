@@ -1,3 +1,13 @@
+<?php
+use yii\helpers\Html;
+
+/* @var $this yii\web\View */
+/* @var $form yii\bootstrap\ActiveForm */
+/* @var $model app\models\ContactForm */
+
+$this->title = 'Contact';
+$this->params['breadcrumbs'][] = $this->title;
+?>
  <h1 class="page-header">Dashboard</h1>
 
           <div class="row placeholders">

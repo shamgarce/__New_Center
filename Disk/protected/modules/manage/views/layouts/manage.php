@@ -36,7 +36,6 @@ AppAsset::register($this);
   <body>
   <?php $this->beginBody() ?>
 
-
     <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container-fluid">
         <div class="navbar-header">
@@ -53,7 +52,7 @@ AppAsset::register($this);
             <li><a href="./index.html">首页</a></li>
             <li><a href="#">设置</a></li>
             <li><a href="#">帮助</a></li>
-            <li><a href="/manage/Logout" data-method="post">退出</a></li>
+            <li><a href="/manage/default/logout" data-method="post">退出</a></li>
             
           </ul>
           <!-- form class="navbar-form navbar-right">
@@ -73,9 +72,9 @@ AppAsset::register($this);
 
         </div>
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
-          <?= Breadcrumbs::widget([
-              'links' => isset($this->params['breadcrumbs']) ? $this->params['breadcrumbs'] : [],
-          ]) ?>
+        	<?= Breadcrumbs::widget([
+                'links' => isset($this->params['breadcrumbs']) ? $this->params['breadcrumbs'] : [],
+            ]) ?>
          <?=$content?>
       </div>
     </div>
