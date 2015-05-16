@@ -9,8 +9,8 @@ class WelcomeController extends \yii\web\Controller
 
     public function actionIndex()
     {
-        echo 'welcome\index ';
-        //return $this->render('index');
+        //echo 'welcome\index ';
+        return $this->render('index');
     }
 
 

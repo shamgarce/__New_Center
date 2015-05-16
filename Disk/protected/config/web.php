@@ -5,6 +5,7 @@ $params = require(__DIR__ . '/params.php');
 
 $config = [
      'id' => 'basic',
+    'homeUrl' => '/site/',
     'basePath' => dirname(__DIR__),
     'layout' => 'main',
     'bootstrap' => ['log'],
@@ -18,7 +19,6 @@ $config = [
             // !!! insert a secret key in the following (if it is empty) - this is required by cookie validation
             'cookieValidationKey' => '____Sham____',
         ],
-
         'cache' => [
             'class' => 'yii\caching\FileCache',
         ],
@@ -45,6 +45,11 @@ $config = [
                 ],
             ],
         ],
+        'assetManager' => [
+            'assetMap' => [
+               // 'jquery.js' => '//ajax.useso.com/ajax/libs/jquery/2.1.1/jquery.min.js',
+            ],
+        ],
         'db' => require(__DIR__ . '/db.php'),
     ],
     'modules' => [
@@ -58,6 +63,10 @@ $config = [
         'super' => [
             'class' => 'app\modules\super\Module',
         ],
+        'manage' => [
+            'class' => 'app\modules\manage\Module',
+        ],
+
 //        'welcome' => [
 //            'class' => 'app\modules\welcome\Module',
 //        ],

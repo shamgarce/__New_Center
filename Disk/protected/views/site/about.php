@@ -8,9 +8,25 @@ $this->params['breadcrumbs'][] = $this->title;
 <div class="site-about">
     <h1><?= Html::encode($this->title) ?></h1>
 
-    <p>
-        This is the About page. You may modify the following file to customize its content:
-    </p>
+<h2>控制器 ：</h2>
 
-    <code><?= __FILE__ ?></code>
+Site<br />
+
+Welcome<br />
+<br />
+
+<h2>模块</h2>
+<br />
+
+Super<br />
+v1<br />
+
+
+规划
+Super 用作后台的用户管理
+
+
+
+
+
 </div>

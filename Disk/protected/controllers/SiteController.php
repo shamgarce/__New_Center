@@ -11,6 +11,14 @@ use app\models\ContactForm;
 
 class SiteController extends Controller
 {
+    public $layout = 'site.php';
+    //public $layout = false;
+    //public $defaultAction = 'test';
+
+    public function actionTest()
+    {
+    }
+
     public function behaviors()
     {
         return [
