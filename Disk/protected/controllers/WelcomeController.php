@@ -30,6 +30,11 @@ class WelcomeController extends \yii\web\Controller
      * */
     public function actionTest()
     {
+
+        $model = new LoginForm();
+        var_dump($model);
+        echo 123;
+exit;
         //ceshi/Mcuser::getDb()
 //        $customers = Mcuser::find()
 //            ->where(['id' => 1])

@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="382da726-1b32-47a2-b675-16a11e57e143" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Disk/protected/modules/manage/controllers/DefaultController.php" afterPath="$PROJECT_DIR$/Disk/protected/modules/manage/controllers/DefaultController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Disk/protected/views/super/index.php" afterPath="$PROJECT_DIR$/Disk/protected/views/super/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Disk/protected/config/web.php" afterPath="$PROJECT_DIR$/Disk/protected/config/web.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Disk/protected/modules/manage/controllers/LoginController.php" afterPath="$PROJECT_DIR$/Disk/protected/modules/manage/controllers/LoginController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Disk/protected/controllers/WelcomeController.php" afterPath="$PROJECT_DIR$/Disk/protected/controllers/WelcomeController.php" />
     </list>
     <ignored path="New_Center.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,20 +34,7 @@
     <favorites_list name="New_Center" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="LoginController.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Disk/protected/modules/manage/controllers/LoginController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.57024795" vertical-offset="690" max-vertical-offset="1955">
-              <caret line="51" column="45" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
-              <folding>
-                <element signature="e#50#58#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -98,7 +83,6 @@
         <option value="$PROJECT_DIR$/Disk/protected/vendor/yiisoft/yii2/web/User.php" />
         <option value="$PROJECT_DIR$/Disk/protected/models/User.php" />
         <option value="$PROJECT_DIR$/Disk/protected/config/db.php" />
-        <option value="$PROJECT_DIR$/Disk/protected/controllers/WelcomeController.php" />
         <option value="$PROJECT_DIR$/Disk/protected/models/ContactForm.php" />
         <option value="$PROJECT_DIR$/Disk/protected/controllers/SuperController.php" />
         <option value="$PROJECT_DIR$/Disk/protected/assets/ShamAsset.php" />
@@ -112,6 +96,7 @@
         <option value="$PROJECT_DIR$/Disk/protected/modules/manage/controllers/UserController.php" />
         <option value="$PROJECT_DIR$/Disk/protected/modules/manage/controllers/DefaultController.php" />
         <option value="$PROJECT_DIR$/Disk/protected/models/LoginForm2.php" />
+        <option value="$PROJECT_DIR$/Disk/protected/controllers/WelcomeController.php" />
         <option value="$PROJECT_DIR$/Disk/protected/modules/manage/controllers/LoginController.php" />
       </list>
     </option>
@@ -190,28 +175,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="New_Center" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="New_Center" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Disk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -330,7 +293,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -566,13 +529,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Disk/protected/models/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="17.037037" vertical-offset="1288" max-vertical-offset="2346">
-          <caret line="36" column="50" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Disk/protected/models/McuserQuery.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-16.88889" vertical-offset="73" max-vertical-offset="920">
@@ -599,13 +555,6 @@
         <state vertical-scroll-proportion="0.34356552" vertical-offset="17626" max-vertical-offset="22448">
           <caret line="791" column="20" selection-start-line="791" selection-start-column="20" selection-end-line="791" selection-end-column="20" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Disk/protected/controllers/WelcomeController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46162927" vertical-offset="0" max-vertical-offset="2599">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -722,24 +671,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Disk/protected/models/LoginForm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-33.074074" vertical-offset="579" max-vertical-offset="1909">
-          <caret line="65" column="33" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Disk/protected/controllers/SiteController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.296297" vertical-offset="1016" max-vertical-offset="2553">
-          <caret line="68" column="27" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
-          <folding>
-            <element signature="e#35#43#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Disk/protected/vendor/yiisoft/yii2/web/Controller.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34356552" vertical-offset="8" max-vertical-offset="4784">
@@ -748,13 +679,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Disk/protected/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27154663" vertical-offset="0" max-vertical-offset="2553">
+          <caret line="10" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#35#43#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Disk/protected/controllers/WelcomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8961039" vertical-offset="0" max-vertical-offset="2714">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Disk/protected/modules/manage/controllers/LoginController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57024795" vertical-offset="690" max-vertical-offset="1955">
-          <caret line="51" column="45" selection-start-line="51" selection-start-column="45" selection-end-line="51" selection-end-column="45" />
+        <state vertical-scroll-proportion="-12.777778" vertical-offset="414" max-vertical-offset="1334">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
           <folding>
             <element signature="e#50#58#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Disk/protected/models/LoginForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="32.51852" vertical-offset="1085" max-vertical-offset="1932">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="e#30#38#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Disk/protected/models/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54309326" vertical-offset="0" max-vertical-offset="2346">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
