@@ -60,8 +60,13 @@ $config = [
         'v1' => [
             'class' => 'app\modules\v1\Module',
         ],
+        //超级用户权限
         'manage' => [
             'class' => 'app\modules\manage\Module',
+        ],
+        //对所有用户都有效的sysmanage - 用户区分 example ： 修改密码
+        'smanage' => [
+            'class' => 'app\modules\smanage\Module',
         ],
 
 //        'welcome' => [
