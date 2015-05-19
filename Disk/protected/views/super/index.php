@@ -15,8 +15,11 @@
 <p>原则 ： </p>
 <p>form 模型可以使用 、 复杂的就不要用了，省的浪费时间</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>需要的不是good 是faster</p>
+<p><a href="http://192.168.1.200:81/" target="_blank">http://192.168.1.200:81/</a></p>
+<p><a href="http://192.168.1.200:81/demo" target="_blank">http://192.168.1.200:81/demo</a></p>
+<p>参考</p>
+<p><a href="http://microphp.us/plugins/microphp.php?in-action.view/19" target="_blank">http://microphp.us/plugins/microphp.php?in-action.view/19</a></p>
 <p>可以用的模块有</p>
 <p>1 <em>AR</em>模型 html对象 </p>
 <h1><a href="http://blog.csdn.net/xiaojun1288/article/details/7480274">assets使用 </a></h1>

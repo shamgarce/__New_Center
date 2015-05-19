@@ -1,5 +1,18 @@
 <?php
 
+
+/*
+*
+
+
+var_dump(Yii::$app->User->identity);
+var_dump(Yii::$app->User);
+Yii::$app->User->isGuest)
+Yii::$app->User->logout();
+
+
+
+ * */
 namespace app\models;
 
 class User extends \yii\base\Object implements \yii\web\IdentityInterface
@@ -9,6 +22,8 @@ class User extends \yii\base\Object implements \yii\web\IdentityInterface
     public $password;
     public $authKey;
     public $accessToken;
+
+    public $isSuperuser;
 
     private static $users = [
         '100' => [
@@ -93,4 +108,11 @@ class User extends \yii\base\Object implements \yii\web\IdentityInterface
     {
         return $this->password === $password;
     }
+
+    public function it()
+    {
+        return 99;
+    }
+
+
 }
